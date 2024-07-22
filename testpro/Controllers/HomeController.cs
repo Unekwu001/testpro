@@ -7,6 +7,8 @@ namespace testpro.Controllers
         public IActionResult Index()
         {
             return View();
+
+            //
         }
     }
 }
